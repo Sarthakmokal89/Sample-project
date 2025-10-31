@@ -1,0 +1,5 @@
+{
+  "name": "Sentily - Hybrid Sentiment Analysis Dashboard",
+  "description": "A modern, data-rich dashboard for real-time sentiment analysis and customer feedback exploration. Built with React, TypeScript, and Tailwind CSS, featuring advanced data visualizations and a sleek, responsive UI.",
+  "requestFramePermissions": []
+}
